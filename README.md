@@ -67,7 +67,7 @@ As you can see, after the initial device cost you could pay absolutely nothing a
 
 Add together the cost of any TV channels and streaming platforms you want to subscribe to, and there’s your usage cost. Remember that you may have subscribed to some of them before investing in a Roku, though.
 
-##Why Roku is charging me monthly
+## Why Roku is charging me monthly
 
 There is no subscription fee for a Roku. If anyone tries to sell you such a subscription or some sort of “lifetime Netflix” deal, you’re dealing with one of the common Roku scams and you should halt communication immediately.
 
